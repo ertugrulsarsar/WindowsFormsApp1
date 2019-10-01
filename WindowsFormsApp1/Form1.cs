@@ -124,7 +124,7 @@ namespace WindowsFormsApp1
 
         private void TextBoxEkle_TextChanged(object sender, EventArgs e)
         {
-
+            //github kontrol
         }
     }
 }
